@@ -10,4 +10,4 @@ $ cd ..
 $ cargo run
 ```
 
-Navigate to [localhost:3030](localhost:3030)
+Navigate to [localhost:3030](http://localhost:3030)
