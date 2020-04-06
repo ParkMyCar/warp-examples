@@ -9,3 +9,5 @@ $ npm run build
 $ cd ..
 $ cargo run
 ```
+
+Navigate to [localhost:3030](localhost:3030)
