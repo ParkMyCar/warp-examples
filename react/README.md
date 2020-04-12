@@ -1,4 +1,9 @@
-# warp + React
+# warp + [React](https://github.com/facebook/react)
+
+### What is this?
+An integration of warp with the popular Javascript framework React!
+
+### Test it yourself!
 
 To run the example do the following
 ```
