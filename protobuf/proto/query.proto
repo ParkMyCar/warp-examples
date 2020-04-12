@@ -11,5 +11,5 @@ message TimeReq {
 }
 
 message TimeResp {
-    uint64 timestamp = 1;
+    int64 timestamp = 1;
 }
