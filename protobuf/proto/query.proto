@@ -1,0 +1,15 @@
+syntax = "proto3";
+package query;
+
+enum TimeZone {
+    UTC = 0;
+    Local = 1;
+}
+
+message TimeReq {
+    TimeZone zone = 1;
+}
+
+message TimeResp {
+    uint64 timestamp = 1;
+}
